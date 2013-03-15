@@ -1,0 +1,19 @@
+/home/srinu/Desktop/workspace/FibonacciNative/bin/FibonacciActivity.ap_ \
+ : /home/srinu/Desktop/workspace/FibonacciNative/res/layout/activity_fibonacci.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values-sw720dp-land/dimens.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values-sw600dp/dimens.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/drawable-xxhdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/res/menu/fibonacci.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/drawable-hdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values-v14/styles.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values-v11/styles.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/drawable-xhdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/res/drawable-mdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values/styles.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values/dimens.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/res/values/strings.xml \
+/home/srinu/Desktop/workspace/FibonacciNative/bin/res/drawable-xxhdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/bin/res/drawable-hdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/bin/res/drawable-mdpi/ic_launcher.png \
+/home/srinu/Desktop/workspace/FibonacciNative/bin/AndroidManifest.xml \
